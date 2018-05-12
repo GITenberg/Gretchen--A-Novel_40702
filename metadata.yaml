@@ -1,0 +1,28 @@
+_repo: Gretchen--A-Novel_40702
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40702-h/images/title_cover.png
+creator:
+  author:
+    agent_name: Holmes, Mary Jane
+    alias: Holmes, Mary Jane (Hawes)
+    birthdate: 1825
+    deathdate: 1907
+    gutenberg_agent_id: '1239'
+    url: http://www.gutenberg.org/2009/agents/1239
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Jane_Holmes
+description: ''
+gutenberg_issued: '2012-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: 'Gretchen: A Novel'
+url: http://www.gutenberg.org/ebooks/40702
