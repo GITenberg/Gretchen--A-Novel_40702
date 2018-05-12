@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1239
     wikipedia: http://en.wikipedia.org/wiki/Mary_Jane_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40702#Gretchen--A-Novel
 gutenberg_issued: '2012-09-07'
 gutenberg_type: Text
 identifiers:
